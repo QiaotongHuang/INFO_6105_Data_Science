@@ -4,10 +4,10 @@ Welcome to the INFO6105 Assignments repository! This repository contains all the
 
 ## Assignments:
 
-1. **Assignment 1**: Linear algebra
-2. **Assignment 2**: Supervised learning algorithms
-3. **Assignment 3**: Unsupervised learning algorithms
-4. **Assignment 4**: Problem set 
+- **Assignment 1**: Linear algebra
+- **Assignment 2**: Supervised learning algorithms
+- **Assignment 3**: Unsupervised learning algorithms
+- **Assignment 4**: Problem set 
 
 ## Final Project:
 
