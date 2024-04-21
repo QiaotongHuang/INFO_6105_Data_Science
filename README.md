@@ -18,6 +18,3 @@ Each assignment and the final project has its own folder containing the necessar
 ## Getting Started:
 
 To get started, simply clone this repository to your local machine.
-
-## Contributing:
-If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
